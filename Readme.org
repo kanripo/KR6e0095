@@ -1,11 +1,9 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:58:09.216551
-#+TITLE: 華嚴經關脈義記
-#+PROPERTY: CBETA_ID T45n1879a
-#+PROPERTY: ID KR6e0095
-#+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1879a
-#+PROPERTY: VOL 45
-#+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
-#+PROPERTY: LASTPB <pb:KR6e0095_T_000-0656a>¶¶¶¶¶¶¶¶¶¶¶¶
+#+TITLE: 華嚴經關脈義記 / T
+#+DATE: 2015-11-26 14:17:18.375065
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         T|【大】     |
 
+* 目次
+* 卷
+** [[file:KR6e0095_001.txt][華嚴經關脈義記 1]]
