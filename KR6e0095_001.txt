@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:58:09.232583
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:41
 #+TITLE: 華嚴經關脈義記
 #+PROPERTY: CBETA_ID T45n1879a
 #+PROPERTY: ID KR6e0095
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1879a
 #+PROPERTY: VOL 45
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0095_T_000-0656a>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6e0095_T_001-0656a> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1879¶
-
- 花嚴經關脈義記¶
+No. 1879¶
+花嚴經關脈義記¶
 ¶
 
 夫以三乘漸次究之者可測其津涯。一乘圓¶
